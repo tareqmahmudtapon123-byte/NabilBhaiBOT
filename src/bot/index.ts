@@ -78,4 +78,4 @@ export async function startBot(token: string) {
 
   await client.login(token);
   return client;
-                                                          
+}
